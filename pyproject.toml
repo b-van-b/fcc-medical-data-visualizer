@@ -1,6 +1,6 @@
 [tool]
 [tool.poetry]
-authors = ["Your Name <you@example.com>"]
+authors = ["b-van-b"]
 name = "root"
 version = "0.0.0"
 description = ""
